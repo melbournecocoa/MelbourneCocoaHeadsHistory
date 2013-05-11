@@ -1,7 +1,9 @@
 Melbourne Cocoaheads History
 ==========================
 
-Originally compiled by Jesse Collis
+Originally compiled by Jesse Collis. Thanks to Gareth Townsend and Sean Woodhouse for organising all the speakers over the years.
+
+The reason it's up on github is so you can fork it, fix it up and send me pull requests. 
 
 ### TODOs
 
