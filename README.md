@@ -5,10 +5,10 @@ Originally compiled by Jesse Collis
 
 ### TODOs
 
-- [ ] Fix formatting
-- [ ] Complete 2013 speakers
-- [ ] Update Locations
-- [ ] Link to sources
+- Fix formatting
+- Complete 2013 speakers
+- Update Locations
+- Link to sources
 
 
 # 2007
