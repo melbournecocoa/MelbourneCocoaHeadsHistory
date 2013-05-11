@@ -3,12 +3,19 @@ Melbourne Cocoaheads History
 
 Originally compiled by Jesse Collis
 
+### TODOs
+
+- [ ] Fix formatting
+- [ ] Complete 2013 speakers
+- [ ] Update Locations
+- [ ] Link to sources
+
 
 # 2007
 
 #### July 2007
   
-	@ Bunker  407 Swanston St Melbourne
+  @ Bunker  407 Swanston St Melbourne
 
 
 #### August 22 2007
