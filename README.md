@@ -5,7 +5,7 @@ Originally compiled by Jesse Collis. Thanks to [Gareth Townsend](http://www.gare
 
 Please don't hesitate to fork this repo, correct my horrible spelling, add links to your (or other people's) websites, videos and presentations. 
 
-**NB: ** Traditionally there's no January meet up.
+**NB:** Traditionally there's no January meet up.
 
 # 2007
 
