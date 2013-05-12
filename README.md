@@ -3,16 +3,9 @@ Melbourne Cocoaheads History
 
 Originally compiled by Jesse Collis. Thanks to [Gareth Townsend](http://www.garethtownsend.info) and [Sean Woodhouse](http://ittybittyapps.com) for organising all the speakers over the years.
 
-> The reason it's up on github is so you can fork it, fix it up and send me pull requests. 
+Please don't hesitate to fork this repo, correct my horrible spelling, add links to your (or other people's) websites, videos and presentations. 
 
-### TODOs
-
-- ~~Fix formatting~~
-- Update Locations
-- Link to sources, talks and people and companies
-
-
-> Traditionally there's no January meet up, and December was originally dedicated to drinks.
+**NB: ** Traditionally there's no January meet up.
 
 # 2007
 
