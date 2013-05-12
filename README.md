@@ -115,11 +115,11 @@ The reason it's up on github is so you can fork it, fix it up and send me pull r
 #### February 2009
 
 	@ The City Blend 365 Little Collins St
+	
+	First Hack Night @ Joe’s Garage, 366 Brunswick Street, Fitzroy
 
 
 ####  March 2009
-
-- HACK NIGHT STARTED in MARCH? @Joe’s Garage, 366 Brunswick Street, Fitzroy
 
 	Daniel Read : NSTableView vs NSCustomView (WIP) 
 	Josh Basset: Objective Resource 
@@ -190,7 +190,7 @@ The reason it's up on github is so you can fork it, fix it up and send me pull r
 #### August 2010
 
 	Scott Brewer: MP3 caching using iOS
-	Rob Capporretto:  Local Notifications 
+	Rob Caporetto:  Local Notifications 
 
 
 #### September 2010
@@ -287,14 +287,14 @@ The reason it's up on github is so you can fork it, fix it up and send me pull r
 
 #### November 2011
 
-	@Sensis - 66 King St, Melbourne
+	@Sensis - 66 King St, Melbourne (York Butter Factory)
 
 	Stew Gleadow: OCUnit/SenTest
 	Chris Miles: Augmented Reality for iOS
 
 #### December 2011
 
-	IttyBittyApps - 361 Little Lonsdale Street Melbourne
+	IttyBittyApps - 361 Little Lonsdale Street Melbourne (£1000 Bend)
 
 	ON A WEDNESDAY
 
@@ -313,12 +313,12 @@ The reason it's up on github is so you can fork it, fix it up and send me pull r
 	@ RMIT
 
 	Chaise Hocking: Couch DB
-	Chris Miles: CMTrayer Physics
+	Chris Miles: CMTraerPhysics
 
 #### April 2012
 
 	Rob Caporetto: Core Motion
-	Oliver Jone: App Code
+	Oliver Jones: App Code
 
 #### May 2012
 
