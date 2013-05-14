@@ -242,7 +242,8 @@ Drinks
 @ PlayUp  658 Church Street, Richmond 3121 
 
 - Oliver Jones: Testflight
-- Alan Harper: Automated Builds for iOS APps
+- Chris Miles: [Developing an iPad in-store interactive product browser](http://blog.chrismiles.info/2011/12/cocoaheads-talk-developing-ipad-in.html)
+- Alan Harper: Automated Builds for iOS Apps
 - Jesse Collis & Stew Gleadow: Xcode Shortcuts
 
 
@@ -295,7 +296,7 @@ Drinks
 @Sensis - 66 King St, Melbourne (York Butter Factory)
 
 - Stew Gleadow: OCUnit/SenTest
-- Chris Miles: Augmented Reality for iOS
+- Chris Miles: [Augmented Reality for iOS](http://blog.chrismiles.info/2012/01/my-cocoaheads-talk-on-augmented-reality.html)
 
 #### December 2011
 
@@ -318,7 +319,7 @@ Drinks
 @ RMIT
 
 - Chaise Hocking: Couch DB
-- Chris Miles: CMTraerPhysics
+- Chris Miles: [CMTraerPhysics](http://blog.chrismiles.info/2012/05/cmtraerphysics-cocoaheads-presentation.html)
 
 #### April 2012
 
@@ -372,7 +373,7 @@ Lightening Talks: Jesse Collis, Luke Tupper, Rob Capretto
 @RMIT
 
 - Adam Eberbach: continuous integration for iOS applications using Jenkins
-- Chris Miles: some amazing demos
+- Chris Miles: [CMUnistrokeGestureRecognizer](https://speakerdeck.com/chrismiles/cmunistrokegesturerecognizer-ios-port-of-1-dollars-unistroke-recognizer)
 - Derek Clarkson: Simon
 - Pete Hodgson : Frank
 
@@ -390,7 +391,7 @@ Sponsored by Domestic Cat
 
 - Dreamwalk Interactive: Development and marketing review of Jam for iPhone. *(who were the speakers?)*
 - Peter Easdown: The power of promotion
-- Chris Miles: Core Bluetooth
+- Chris Miles: [Bluetooth LE with CoreBluetooth](http://blog.chrismiles.info/2013/03/bluetooth-le-with-corebluetooth.html)
 - Sean Woodhouse: Tricks for measuring and improving scroll performance 
 
 #### March 2013
