@@ -137,7 +137,7 @@ Was Bunker retired for drinks at this point? - JC?
 #### July 2009
 
 - Robert Stainsby: RMIT’s new iPhone Course
-- Rob Caporetto: MapKit
+- Rob Caporetto: [MapKit](http://www.slideshare.net/rob_c/introduction-to-mapkit)
 - Alexandre Queiroz: StoreKit
 - Josh Basset: UITableView anti patterns
 
@@ -191,7 +191,7 @@ Was Bunker retired for drinks at this point? - JC?
 #### August 2010
 
 - Scott Brewer: MP3 caching using iOS
-- Rob Caporetto:  Local Notifications 
+- Rob Caporetto: [Local Notifications](http://www.slideshare.net/rob_c/local-notifications-melbourne-cocoaheads-aug-10)
 
 
 #### September 2010
@@ -288,7 +288,7 @@ Drinks
 
 @ REA  - 678 Victoria Street, Richmond
 	
-- Rob Caporetto: Cocos2D
+- Rob Caporetto: Cocos2D ([Slides](http://www.slideshare.net/rob_c/cocos2d-introduction-melbourne-cocoaheads-20111013), [Code](https://github.com/robc/ShooterDemo))
 - Cameron Rogers: legal issues relevant to app developers
 
 #### November 2011
@@ -323,7 +323,7 @@ Drinks
 
 #### April 2012
 
-- Rob Caporetto: Core Motion
+- Rob Caporetto: Core Motion ([Slides](http://www.slideshare.net/rob_c/core-motion-intro-melbourne-cocoaheads-20120412))
 - Oliver Jones: App Code
 
 #### May 2012
