@@ -15,13 +15,13 @@ Please don't hesitate to fork this repo, correct my spelling, add fill in the ga
 
 ## By The Year
 
-- [2007](blob/master/2007.mdown)
-- [2008](blob/master/2008.mdown)
-- [2009](blob/master/2009.mdown)
-- [2010](blob/master/2010.mdown)
-- [2011](blob/master/2011.mdown)
-- [2012](blob/master/2012.mdown)
-- [2013 (Incomplete)](blob/master/2013.mdown)
-- [2014](blob/master/2014.mdown)
+- [2007](2007.mdown)
+- [2008](2008.mdown)
+- [2009](2009.mdown)
+- [2010](2010.mdown)
+- [2011](2011.mdown)
+- [2012](2012.mdown)
+- [2013 (Incomplete)](2013.mdown)
+- [2014](2014.mdown)
 
 
