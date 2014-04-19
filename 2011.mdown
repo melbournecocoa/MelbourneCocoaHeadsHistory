@@ -1,0 +1,85 @@
+# Melbourne Cocoaheads History - 2011
+
+## February 2011
+
+@ Lookout Mobile - 1 Brenchley Place Prahran
+
+- Stewart Gleadow: Automated iOS testing with Frank 
+- Jeff Tan-Ang: OzTV
+
+## March 2011
+
+@ Thoughtworks -  303 Collins Street 
+
+- Kevin O'Neil: blocks
+- Grant Adam: Interactive books
+
+
+## April 2011
+
+@ PlayUp  658 Church Street, Richmond 3121 
+
+- Oliver Jones: Testflight
+- Chris Miles: [Developing an iPad in-store interactive product browser](http://blog.chrismiles.info/2011/12/cocoaheads-talk-developing-ipad-in.html)
+- Alan Harper: Automated Builds for iOS Apps
+- Jesse Collis & Stew Gleadow: Xcode Shortcuts
+
+
+## May 2011
+
+@ REA - 678 Victoria Street, Richmond
+    
+- Steve Holloway:  open/closed design principals
+- Luke Tupper: review/presentation of the book “App Savvy”
+
+
+## June 2011
+
+@ JTribe - 1/243 Collins Street Melbourne
+
+- David Kennedy and Scott Manley from Dangerous Pixels - designing their applications
+- Jesse Collis & Luke Cunningham - Refactoring realestate.com.au
+
+## July 2011
+
+@ Deloitte Online - 550 Bourke Street
+
+- Bradley Clayton: experience developing and deploying enterprise iOS applications
+- Patrick Richards: DCIntrospect
+
+## August 2011
+
+@ Intunity - 6 Palmer Parade Cremorne (Richmond)
+
+- Sadat Rahman : IBAForms
+- Alex Silverman from Big Nerd Ranch
+
+## September 2011
+
+@ PlayUp -  417 St Kilda Rd, Melbourne
+
+- Loukas Kalenderidis: Security Bits and pieces
+- Jeff Bonnes: Appcelerator Titanium
+
+
+## October 2011
+
+@ REA  - 678 Victoria Street, Richmond
+    
+- Rob Caporetto: Cocos2D ([Slides](http://www.slideshare.net/rob_c/cocos2d-introduction-melbourne-cocoaheads-20111013), [Code](https://github.com/robc/ShooterDemo))
+- Cameron Rogers: legal issues relevant to app developers
+
+## November 2011
+
+@Sensis - 66 King St, Melbourne (York Butter Factory)
+
+- Stew Gleadow: OCUnit/SenTest
+- Chris Miles: [Augmented Reality for iOS](http://blog.chrismiles.info/2012/01/my-cocoaheads-talk-on-augmented-reality.html)
+
+## December 2011
+
+@ IttyBittyApps - 361 Little Lonsdale Street Melbourne (£1000 Bend)
+
+**ON A WEDNESDAY**
+
+- Keith Pitt: Vendor Kit

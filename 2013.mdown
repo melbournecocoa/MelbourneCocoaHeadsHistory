@@ -1,0 +1,33 @@
+# Melbourne Cocoaheads History - 2013
+
+## February 2013
+
+Sponsored by Domestic Cat
+
+- Dreamwalk Interactive: Development and marketing review of Jam for iPhone. *(who were the speakers?)*
+- Peter Easdown: The power of promotion
+- Chris Miles: [Bluetooth LE with CoreBluetooth](http://blog.chrismiles.info/2013/03/bluetooth-le-with-corebluetooth.html)
+- Sean Woodhouse: Tricks for measuring and improving scroll performance 
+
+## March 2013
+
+Sponsored by Shine Technologies
+
+- Oliver Jones (Itty Bitty Apps): Meta-programming with XMacros
+- Dave McLauchlan (Buddy): Backend as a Service Development – The Who, The Why, The How
+- Ben Lehman, (Remarqueable): How to choose a product or company name that doesn’t get you sued
+
+## April 2013
+
+Sponsored by Odecee
+
+- Ben Pearson (Inlight): Realtime ALL the Things!
+- Aron Bury (Airloom): CocoaLumberjack - Taking Logging to the next Level
+
+## May 2013
+
+Sponsored by realestate.com.au
+
+- Jesse Collis: [A brief history of Cocoaheads](https://github.com/jessedc/MelbourneCocoaheadsHistory)
+- Jinju Jang (Outware): Introduction to Photoshop for developers
+- Ray Hilton: Emit: Internet Broadcasting with Http Live Streaming

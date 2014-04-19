@@ -1,0 +1,61 @@
+# Melbourne Cocoaheads History - 2008
+
+## April 2008
+
+- Marcus Crafter: Ruby Cocoa and Core Image
+- Robert Stainsby: New feature in Xcode 3
+- Bulkan-Savun Evcimen: py2app
+- Gareth Townsend: iPhone SDK, and what it means for us in Australia
+
+Post meet up drinks at Bunker
+
+## May 2008
+
+- Daniel Saffioti: AUC and DevWorld 08
+- Marcus Crafter: dTrace
+
+## June 2008
+
+- Doug Clark : Developing custom-drawn interfaces _(No show?)_
+- Bart van Deventer: Monkey Patching Cocoa
+
+RMIT/Bunker
+
+> Brisbane Coocaheads started
+
+## July 2008 (1 year anniversary)
+
+@ City Blend 365 Little Collins St, Sponsored by Duis Computing
+
+- Doug Clark: Developing custom-drawn interfaces
+- Gareth Townsend: Mobile Safari (?)
+
+## August 2008
+
+@ RMIT/Bunker
+
+- Scott Brewer: Audio Queue
+- Gareth Townsend: A Love/Hate Relationship with Touchable
+
+> Write up in Australian Macworld http://www.macworld.com.au/blogs/mugshots-cocoaheads-585
+
+## September 2008
+
+- Luke Tupper: Polishing Your Application
+
+## October 2008
+
+- Mathieu Tozer: Core Animation
+- Doug Clark: Developing custom-drawn interfaces
+
+## November 2008
+
+- Luke Tupper: iPhone eBook Comparison
+- Oliver Jones: Continuous Integration with Xcode
+
+## December 2008
+
+- Joshua Bassett - lightning talk on REST and iPhone
+- Ben Britten - Open GL ES
+
+Was Bunker retired for drinks at this point? - JC?

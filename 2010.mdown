@@ -1,0 +1,61 @@
+# Melbourne Cocoaheads History - 2010
+
+## February 2010
+
+@RMIT RMIT lecture theatre 10.13.03 (building 10, level 13). 
+
+## March 2010
+
+- Rob Caporetto: Using html5 features in mobile safari
+- Farad:  Calendar Storage
+
+## April 2010
+
+- Luke Tupper: QTKit primer
+- Jeff Bonnes: iPad UI and patterns overview.
+
+## May 2010
+
+??
+
+## June 2010
+
+??
+
+## July 2010
+
+- Bill Tinker: How I built my first iPhone Business application.
+- Sadat Rahman: iAussie Rules Live HD.
+
+## August 2010
+
+- Scott Brewer: MP3 caching using iOS
+- Rob Caporetto: [Local Notifications](http://www.slideshare.net/rob_c/local-notifications-melbourne-cocoaheads-aug-10)
+
+
+## September 2010
+
+@REA 670 Victoria Street Richmond
+
+- Marcus Crafter: UIScrollView (everything you need to know and more)
+- Steven Holloway: Open Sound Control library.
+- Kevin O’neill: Objective-C & Polymorphism.
+
+## October 2010
+    
+@REA
+
+- Chris Miles: Locayta Search Mobile
+- Steven Holloway: VVOpenSource
+
+## November 2010
+
+@REA
+
+- Sean Woodhouse: IBAForms
+- Jesse Collis: iAds
+- REA Mobile team: Demo
+
+## December 2010
+
+Drinks

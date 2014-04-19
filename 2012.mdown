@@ -1,0 +1,76 @@
+# Melbourne Cocoaheads History - 2012
+
+## February 2012
+
+@ RMIT 
+
+- Jesse Collis: CATiledLayer
+
+#### March 2012
+
+@ RMIT
+
+- Chaise Hocking: Couch DB
+- Chris Miles: [CMTraerPhysics](http://blog.chrismiles.info/2012/05/cmtraerphysics-cocoaheads-presentation.html)
+
+#### April 2012
+
+- Rob Caporetto: Core Motion ([Slides](http://www.slideshare.net/rob_c/core-motion-intro-melbourne-cocoaheads-20120412))
+- Oliver Jones: App Code
+
+#### May 2012
+
+@ RMIT
+
+- Bradley Clayton and Aron Bury: CI Builds automated testing
+- Alan Rogers: Modern Core Data
+
+#### June 2012
+    
+@RMIT
+
+- Alexander O'Han: Innovation Funding
+- Andrew Canto: Web vs Native, APIs
+
+#### July 2012
+    
+@RMIT
+
+- Scott Brewer: From The O to Enso
+- Peter Goldsmith: CouchDB
+
+#### August 2012
+    
+@RMIT
+
+- Jesse Collis: Localising your Apps
+- Josh: insights on APple vs Android Stores
+
+#### September 2012
+    
+@RMIT
+
+Lightening Talks: Jesse Collis, Luke Tupper, Rob Capretto
+
+
+#### October 2012
+    
+@RMIT
+
+- Mark Afflick: Cocoa Autolayout
+- Robert Stainsby: Maps without MapKit
+
+#### November 2012
+    
+@RMIT
+
+- Adam Eberbach: continuous integration for iOS applications using Jenkins
+- Chris Miles: [CMUnistrokeGestureRecognizer](https://speakerdeck.com/chrismiles/cmunistrokegesturerecognizer-ios-port-of-1-dollars-unistroke-recognizer)
+- Derek Clarkson: Simon
+- Pete Hodgson : Frank
+
+#### December 2012
+
+@RMIT
+
+Lightening Tlaks: Donny Kurniawan, Craig Peebles, and Matt Toohey

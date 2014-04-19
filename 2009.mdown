@@ -1,0 +1,53 @@
+# Melbourne Cocoaheads History - 2009
+
+## February 2009
+
+@ The City Blend 365 Little Collins St
+    
+> First Hack Night @ Joe’s Garage, 366 Brunswick Street, Fitzroy
+
+
+##  March 2009
+
+- Daniel Read : NSTableView vs NSCustomView (WIP) 
+- Josh Basset: Objective Resource 
+
+## April 2009
+
+@ Caffine @ RMIT 
+
+- Luke Tupper: Testing location aware applications
+- Gareth Townsend: User Experiences
+
+
+## May 2009
+
+- Gareth Townsend: WWDC: A Survival Guide
+
+## June 2009
+
+- Matt Gallagher: Snoop, Steal and Use Undisclosed Classes and Methods on Mac OS X and the iPhone
+
+## July 2009
+
+- Robert Stainsby: RMIT’s new iPhone Course
+- Rob Caporetto: [MapKit](http://www.slideshare.net/rob_c/introduction-to-mapkit)
+- Alexandre Queiroz: StoreKit
+- Josh Basset: UITableView anti patterns
+
+## August 2009
+
+- Luke Tupper: Experiences with unit testing on the iPhone
+- Gareth Townsend: Using the Three20 library to add persistent state to your iPhone application.
+
+## September 2009
+
+> No records of 09/2009
+
+## October 2009
+
+- Daniel Read: Interaction Design
+
+## November 2009
+    
+> No talks, just beer at the Belgum Beer Cafe

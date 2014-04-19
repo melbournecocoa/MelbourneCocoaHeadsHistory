@@ -1,0 +1,32 @@
+# Melbourne Cocoaheads History - 2007
+
+## July 2007
+
+@ Bunker - 407 Swanston St Melbourne
+
+## August 2007
+
+@ RMIT Seminar Room 1, Swanston St Library, RMIT
+
+- Gareth Townsend: Core Data
+- Mathieu Tozer: Xcode
+
+> [melbournecocoaheads.com](http://web.archive.org/web/20070601000000*/http://melbournecocoaheads.com) launched 
+
+## September 2007
+
+@ RMIT Seminar Room 1, Swanston St Library, RMIT. 6pm
+
+- Doug Clarke: UI Animation
+- Jedda Wignall: ?
+
+## October 2007
+    
+- Robert Stainsby: Subversion Use in OS X
+- Jedda Wignall: Creating Custom Frameworks
+
+## November 2007
+    
+@ Bunker -  407 Swanston St Melbourne
+
+End of year drinks at Bunker
