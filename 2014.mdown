@@ -39,9 +39,9 @@
 
 **Amazon Web Services** - Rob Amos. 
 
-- [Slides](http://bok.im/linked/cocoaheads-2014-03-13-links.html)
-
 Rob will look at the Amazon Web Service offerings and how they can be used as a back-end for your iOS apps.
+
+- [Slides](http://bok.im/linked/cocoaheads-2014-03-13-links.html)
 
 **Pebble Development** - [Peter Hare](https://twitter.com/petehare).
 
@@ -68,7 +68,7 @@ Wearables are the new hotness, and Pebble is one of the early entrants in this m
 
 **Rreverse engineer Mac & iOS Apps for fun and profit.** - [Richard Heard](https://twitter.com/heardrwt)
 
-- [slides](https://speakerdeck.com/heardrwt/cocoaheads-melbourne-april-2014-reverse-engineering-mac-and-ios-apps)
+- [Slides](https://speakerdeck.com/heardrwt/cocoaheads-melbourne-april-2014-reverse-engineering-mac-and-ios-apps)
 
 ### Lightening Talks
 
