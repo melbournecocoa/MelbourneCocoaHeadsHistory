@@ -1,1 +1,101 @@
 # Melbourne Cocoaheads History - 2014
+
+## February 2014
+
+Date: February 13 @ 6:30pm
+Location: RMIT SAB Building (Swanston St) Building 80, Level 1, Room 2
+Sponsor: [REA Group / realestate.com.au](http://careers.realestate.com.au/rea-group-careers)
+
+### Presentations
+
+**Implementing Enso Locate (a Bluetooth LE powered indoor positioning system) at MONA** - [Scott Brewer](https://twitter.com/goawaygeek) from [Art Processors](https://twitter.com/ArtProcessors)
+
+**Parse: An instant back end for your app** - [George McKibbin](http://www.twitter.com/georgeantium)
+
+- [Source Code](https://github.com/cooliodoc/Parse-Cats), [Thead](https://groups.google.com/d/msg/cocoaheadsau/dq6TrcaDWFc/0x-1qhx2Ut0J)
+
+**Installr*** - [Jeff Bonnes](https://twitter.com/jeffbonnes)
+
+- [Slides](http://www.slideshare.net/jeffbonnes/easier-app-beta-testing-with-installr)
+- [@installerapp](https://twitter.com/installrapp)
+
+### Lightening Talks
+
+### Meta
+
+- [EventBright](http://www.eventbrite.com.au/e/melbourne-cocoaheads-february-2013-tickets-10160198427)
+- [@melbournecocoa Photo of RMIT Lecture Theatre](https://twitter.com/melbournecocoa/status/433874043771445249/photo/1)
+
+## March 2014
+
+Date: March 13 @ 6:30pm
+Location: RMIT City Campus (Swanston St) Building 8, Level 7, Room 71
+Sponsor: [Salsa Digital](http://www.salsadigital.com.au)
+
+### Presentations
+
+**Amazon Web Services** - Rob Amos. 
+
+- [Slides](http://bok.im/linked/cocoaheads-2014-03-13-links.html)
+
+Rob will look at the Amazon Web Service offerings and how they can be used as a back-end for your iOS apps.
+
+**Pebble Development** - [Peter Hare](https://twitter.com/petehare).
+
+Wearables are the new hotness, and Pebble is one of the early entrants in this market. In this presentation Peter will talk about applications for the new wearable platform, options for connected Pebble apps, and look at the similarities between Pebble's native SDK and UIKit.
+
+- [Vimeo Video](https://vimeo.com/91412854)
+
+### Lightening Talks
+
+- **Paralax with Constraints** - Pete Hare - [Blog Post](http://blog.domesticcat.com.au/ios/2014/03/19/creating-parallax-effect-on-uiscrollview-using-simple-constraints/)
+
+### Meta
+
+- [EventBright](http://www.eventbrite.com.au/e/melbourne-cocoaheads-march-2013-tickets-10829510357)
+
+
+## April 2014
+
+Date: April 10 @ 6:30pm
+Location: RMIT City Campus (Swanston St) Building 8, Level 7, Room 71
+Sponsor: [Domestic Cat](http://domesticcat.com.au)
+
+### Presentations
+
+**Rreverse engineer Mac & iOS Apps for fun and profit.** - [Richard Heard](https://twitter.com/heardrwt)
+
+- [slides](https://speakerdeck.com/heardrwt/cocoaheads-melbourne-april-2014-reverse-engineering-mac-and-ios-apps)
+
+### Lightening Talks
+
+- Myles Abbot
+- Oliver Jones
+- Matthew Snowden
+
+### Meta
+
+- [EventBright](http://www.eventbrite.com.au/e/melbourne-cocoaheads-april-2014-tickets-11134273913)
+
+
+## May 2014
+
+Date: May 8 @ 6:30pm
+Location: RMIT City Campus (Swanston St) Building 8, Level 7, Room 71
+Sponsor: [Shine Technologies](http://www.shinetech.com)
+
+### Presentations
+
+**Behind the scenes at Cook** - Alex Johnston, Jeff Tan-Ang and Gerald Kim
+
+A look at the design and development challenges faced by the Cook Team
+
+### Lightning Talks
+
+- **Safarweetbot** - Maxime de Chalendar [Github](https://github.com/DCMaxxx/Safarweetbot)
+- **UAFilterableResultsController** - Rob Amos [Github](https://github.com/unsignedapps/UAFilterableResultsController/)
+- **Multi-lingual search with CFStringTokenizer** - Chendo
+
+### Meta
+
+- [EventBright](https://www.eventbrite.com.au/e/melbourne-cocoaheads-may-2014-tickets-11327686415)
