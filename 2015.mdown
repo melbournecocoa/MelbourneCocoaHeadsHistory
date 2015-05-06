@@ -24,4 +24,46 @@ Building 8, Level 7, Room 71
 - Matt Delves (@mattdelves) - React Native
 - Yichi Zhang - The Lazy Cocoa Project
 
+## March 12, 2015
 
+### Time & Location
+
+6:30pm, March, 12th.
+RMIT City Campus (Swanston St)
+Building 8, Level 7, Room 71
+383 Swanston Street
+
+### Sponsors
+
+[jtribe](http://jtribe.com.au/)
+
+### Presentations
+
+- Ievgen Rudenko (@erudenko) - Behaviors in iOS Apps
+- John Pope - Komposer
+
+## Lightning Talks
+
+- Denise Tambanis - "Our Gifsts" iOS App
+- Vlas - [JSON Schema Validation](https://github.com/vlas-voloshin/JSONSchemaValidation)
+- Chendo - [Fuzzy Autocomplete Plugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
+
+## April 9, 2015
+
+### Time & Location
+
+6:30pm, April 9th.
+RMIT City Campus (Swanston St)
+Building 8, Level 7, Room 71
+383 Swanston Street
+
+### Sponsors
+
+[B2Cloud](http://b2cloud.com.au/)
+
+### Presentations
+
+- Peter Goldsmith (@peterngoldsmith) - The Month That Was
+- Steph Sharp (@stephrsharp) - Designing delightful user experiences with UIKit Dynamics
+- Prasanna Gopalakrishnan (@prasannag) - Glanceable computing with WatchKit
+- Adam Sharp (@sharplet) - Nothin’ but Swift — A minimalist programming journey
