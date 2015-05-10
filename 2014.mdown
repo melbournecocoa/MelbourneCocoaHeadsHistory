@@ -22,7 +22,7 @@
 - [Slides](http://www.slideshare.net/jeffbonnes/easier-app-beta-testing-with-installr)
 - [@installerapp](https://twitter.com/installrapp)
 
-### Lightening Talks
+### Lightning Talks
 
 ### Meta
 
@@ -49,7 +49,7 @@ Wearables are the new hotness, and Pebble is one of the early entrants in this m
 
 - [Vimeo Video](https://vimeo.com/91412854)
 
-### Lightening Talks
+### Lightning Talks
 
 - **Paralax with Constraints** - Pete Hare - [Blog Post](http://blog.domesticcat.com.au/ios/2014/03/19/creating-parallax-effect-on-uiscrollview-using-simple-constraints/)
 
@@ -70,7 +70,7 @@ Wearables are the new hotness, and Pebble is one of the early entrants in this m
 
 - [Slides](https://speakerdeck.com/heardrwt/cocoaheads-melbourne-april-2014-reverse-engineering-mac-and-ios-apps)
 
-### Lightening Talks
+### Lightning Talks
 
 - Myles Abbot
 - Oliver Jones
