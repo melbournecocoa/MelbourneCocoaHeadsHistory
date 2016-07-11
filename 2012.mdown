@@ -50,7 +50,7 @@
     
 @RMIT
 
-Lightening Talks: Jesse Collis, Luke Tupper, Rob Capretto
+Lightning Talks: Jesse Collis, Luke Tupper, Rob Capretto
 
 
 #### October 2012
