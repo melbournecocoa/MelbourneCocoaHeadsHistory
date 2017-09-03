@@ -18,7 +18,7 @@ Andyy Hope / [Playgrounds Conference](http://www.playgroundscon.com)
 
 ### Livestream
 
-- [Video](https://www.youtube.com/watch?v=xkWGFLafSLk&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+[Video](https://www.youtube.com/watch?v=xkWGFLafSLk&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
 ### Presentations
 
@@ -72,7 +72,7 @@ Outware
 
 ### Livestream
 
-- [Video 1](https://www.youtube.com/watch?v=UiBuuOrbW7c&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=9gSfgIMttcY&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 3](https://www.youtube.com/watch?v=_CU0R5LAgx8&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+[Video 1](https://www.youtube.com/watch?v=UiBuuOrbW7c&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=9gSfgIMttcY&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 3](https://www.youtube.com/watch?v=_CU0R5LAgx8&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
 ### Presentations
 
@@ -97,7 +97,7 @@ Our first 'themed' meetup - **UIKit**, introduction of the CocoaHeads Crew. Anno
 
 ### Livestream
 
-- [Video](https://www.youtube.com/watch?v=wIylLF28l6A&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+[Video](https://www.youtube.com/watch?v=wIylLF28l6A&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
 ### Presentations
 
@@ -127,7 +127,7 @@ Second themed meetup - **"Whats new from WWDC"**
 
 ### Livestream
 
-- [Video 1](https://www.youtube.com/watch?v=voKPBGBxT-w&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=WqNbGtrwR5Q&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+[Video 1](https://www.youtube.com/watch?v=voKPBGBxT-w&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=WqNbGtrwR5Q&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
 ### Presentations
 
@@ -184,8 +184,7 @@ Theme - **Swift 4**
 
 ### Livestream
 
-- [Video 1](https://www.youtube.com/watch?v=cfWOllnRZgs&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
-- [Video 2](https://www.youtube.com/watch?v=yE-mxFmdArc&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+[Video 1](https://www.youtube.com/watch?v=cfWOllnRZgs&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=yE-mxFmdArc&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
 ### Presentations
 
