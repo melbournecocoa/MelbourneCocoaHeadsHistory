@@ -1,4 +1,4 @@
-# Melbourne Cocoaheads History - 2015
+# Melbourne CocoaHeads History - 2015
 
 ## February 12, 2015
 
@@ -8,6 +8,8 @@
 RMIT City Campus (Swanston St)
 Building 8, Level 7, Room 71
 383 Swanston Street
+
+[Eventbrite link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646207227)
 
 ### Sponsors
 
@@ -33,6 +35,8 @@ RMIT City Campus (Swanston St)
 Building 8, Level 7, Room 71
 383 Swanston Street
 
+[Eventbrite Link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646208230#)
+
 ### Sponsors
 
 [jtribe](http://jtribe.com.au/)
@@ -42,7 +46,7 @@ Building 8, Level 7, Room 71
 - Ievgen Rudenko (@erudenko) - Behaviors in iOS Apps
 - John Pope - Komposer
 
-## Lightning Talks
+### Lightning Talks
 
 - Denise Tambanis - "Our Gifsts" iOS App
 - Vlas - [JSON Schema Validation](https://github.com/vlas-voloshin/JSONSchemaValidation)
@@ -67,3 +71,223 @@ Building 8, Level 7, Room 71
 - Steph Sharp (@stephrsharp) - Designing delightful user experiences with UIKit Dynamics
 - Prasanna Gopalakrishnan (@prasannag) - Glanceable computing with WatchKit
 - Adam Sharp (@sharplet) - Nothin’ but Swift — A minimalist programming journey
+
+# May 14, 2015
+
+### Time & Location
+
+6:30pm, May 14th.
+RMIT City Campus (Swanston St)
+Building 8, Level 7, Room 71
+383 Swanston Street
+
+[Eventbrite Link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646210236#)
+
+### Sponsors
+
+[Domestic Cat](http://domesticcat.com.au)
+
+### Presentations
+
+- Peter Goldsmith - The Month That Was
+- Stewart Gleadow (@stewgleadow) - Notifications: "Push it real good"
+- Adam Eberbach (@aeberbach) -  Presenting a Bluetooth LE project
+ 
+### Lightning Talks
+ 
+- Marius Ursache (@bamse) - "Remote Logging"
+
+# June 18, 2015
+
+### Time & Location
+
+6:30pm, June 18th.
+RMIT City Campus (Swanston St)
+Building 8, Level 7, Room 71
+383 Swanston Street
+
+[Eventbrite link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646211239#)
+
+### Sponsors
+
+[Outware Mobile](http://www.outware.com.au)
+
+### Presentations
+
+- Ben Deckys (@cocotutch) - The Month That Was (TMTW)
+- Jesse Collis (@sirjec) - Preparing for an iOS 9 world - tips for future proofing your apps
+- Giovanni Lodi (@mokagio) - Talking myself into the value of acceptance testing
+- Anthony Mittaz (@nsfounder) - Swift 2.0
+
+# July 9, 2015
+
+### Time & Location
+
+6:30pm, July 18th.
+RMIT City Campus (Swanston St)
+Building 8, Level 7, Room 71
+383 Swanston Street
+
+[Eventbrite Link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646212242)
+
+### Sponsors
+
+REA Group / Realestate.com.au
+
+### Lightning Talk Month
+
+- Ben Deckys - The Month (3 weeks?) that was (TMTW)
+- Anvitha V - My intro to coding
+- Matt Delves - Build pipelines that aren't crap
+- Ievgen Rudenko - BehaviourKit
+- Yichi Zhang - Demo of RMIT School of SC&IT summer project 
+- Ashton Williams - Breakpoints
+- Vlas Voloshin - Push Notifications and Application States
+- Kevin O'neill - Intro to Reactive Programming
+- Prasana G - iOS 9 Search APIs
+- Giovanni Lodi - Fu..nctors in Swift
+
+# August 13, 2015
+
+After a last minute scramble after RMIT was not available this month we ended up at [Teamsquare](https://teamsquare.co). Nearly all 100 tickets sold for this night.
+
+### Time & Location
+
+6:30pm, August 13th.
+Teamsquare
+Level 1 520 Bourke Street
+
+[Eventbrite link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646213245#)
+
+### Sponsors
+
+Odecee
+
+### Presentations
+
+- Adam Sharp (@sharplet) - ReactiveCocoa in Practice.
+- Jean-Étienne Parrot (@jeanetienne) - Clean Architecture: VIPER at scale.
+- Shane Whitehead - Through the looking glass - lessons learnt developing my first app
+
+### Lightning Talks
+
+- Peter Goldsmith (@peterngoldsmith) - The Month That Was (TMTW).
+- Hadi Michael (@hadi_michael) - Machine learning classifier called Naive Bayes.
+- Mica Huynh (@somekindofmica) - Basic UI App.
+- Stew Gleadow (@stewgleadow) - Codesigning Apple Watch Apps.
+- Sean Woodhouse (@seanwoodhouse) - What's new in Reveal 1.6.
+
+# September 10, 2015
+
+### Time & Location
+
+6:30pm, September 10th.
+Teamsquare
+Level 1 520 Bourke Street
+
+[Eventbrite link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646213245#)
+
+### Sponsors
+
+[Domestic Cat](http://domesticcat.com.au)
+
+### Livestream
+
+There was a livestream this month.
+
+Link TBC
+
+### Presentations
+
+- Kevin Oneill - Flex box view for laying out information style UIs.
+- Stew Gleadow - Codesigning Apple Watch Apps.
+- Kate Lanyon - The pros and cons of adopting swift 2.
+- Cam Rogers - "Copyright for developers: how does it apply to an employee vs an independent contractor?"
+- Jacki Li - What's new in Watch OS 2.
+
+### Lightning Talks
+
+- Jesse Collis, Peter Goldsmith - The Month That Was
+
+# October 8, 2015
+
+### Time & Location
+
+6:30pm, October 8th.
+Teamsquare
+Level 1 520 Bourke Street
+
+[Eventbrite link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646215251#)
+
+### Sponsors
+
+Australia Post
+
+### Livestream
+
+There was a livestream this month.
+
+Link TBC
+
+### Presentations
+
+- Jon Manning @desplesda - "What's new in  iOS Game Dev features (GameplayKit, SpriteKit, ReplayKit)"
+- Adrian Maciburko @maciburko - "Prototyping and exploring custom interactions for the Apple TV"
+- Ashton Williams @ashtonDev - "Scheming Defaults"
+- Alvaro Maz @alvaromaz - "Rebuilding citizenship for the 21st century through technology"
+
+### Lightning Talks
+
+- Ben Deckys @cocotutch - The Month That Was (TMTW)
+
+# November 12, 2015
+
+### Time & Location
+
+6:30pm, November 12th.
+Teamsquare
+Level 1 520 Bourke Street
+
+[Eventbrite Link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646216254#)
+
+### Sponsors
+
+[Vinomofo](https://www.vinomofo.com)
+
+### Livestream
+
+There was a livestream this month.
+
+Link TBC
+
+### Presentations
+
+- Peter Goldsmith - TMTW
+- Jacky Li - 
+- Crash Reporter and Other Fun THings
+
+### Lightning Talks
+
+- TBC
+
+# December 10, 2015
+
+End of Year Event. We ran a layed back event and did introductions around the room.
+
+[Blog Post](https://www.melbournecocoaheads.com/updates/melbourne-cocoaheads-2015-end-of-year-meetup-90)
+
+### Time & Location
+
+6:30pm, December 10th.
+Teamsquare
+Level 1 520 Bourke Street
+
+[Eventbrite link](https://www.eventbrite.com.au/e/melbourne-cocoaheads-2015-registration-15646217257)
+
+### Livestream
+
+There was no livestream this month.
+
+### Sponsors
+
+Odecee
