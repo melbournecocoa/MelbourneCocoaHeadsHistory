@@ -263,14 +263,12 @@ Link TBC
 ### Presentations
 
 - Peter Goldsmith - TMTW
-- Jacky Li - 
-- Crash Reporter and Other Fun THings
+- Jacky Li - Why Appcode is more productive than Xcode
+- Jennifer Nordwall - Crash Reporter and Other Fun Things
+- Pavel Oborin - Carthage vs Cocoapods
+- Adam Sharp - Acceptable tests in Xcode
 
-### Lightning Talks
-
-- TBC
-
-# December 10, 2015
+# December 10, 2015 (#90)
 
 End of Year Event. We ran a layed back event and did introductions around the room.
 
