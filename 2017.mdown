@@ -77,9 +77,9 @@ Outware
 ### Presentations
 
 - Ben Deckys @cocotutch - The Month That Was.
-- Gio @mokagio - Back to the Future: Git Rebase for iOS Developers. [Video](https://www.youtube.com/watch?v=Zj-kvFJcLwc)
+- Gio @mokagio - Back to the Future: Git Rebase for iOS Developers. [Video on YouTube](https://www.youtube.com/watch?v=Zj-kvFJcLwc)
 - Chendo @chendo - Running RSpec on an actual iOS device with minimal modifications.
-- Jesse Collis @sirjec - Automaticly generating your API client. [Video](https://www.youtube.com/watch?v=EzKwi-u9jQo)
+- Jesse Collis @sirjec - Automaticly generating your API client. [Video on YouTube](https://www.youtube.com/watch?v=EzKwi-u9jQo)
 
 ### Meta 
 
@@ -101,9 +101,9 @@ Our first 'themed' meetup - **UIKit**, introduction of the CocoaHeads Crew. Anno
 
 ### Presentations
 
-- Andyy Hope @andyyhope - 10 things I hate about UIKit [Video](https://www.youtube.com/watch?v=7VkAOa8c8MY)
-- Ben Deckys @cocotutch - Custom Bezier Curves with UIViewAnimator [Video](https://www.youtube.com/watch?v=r50BL6cp-6A)
-- Vlas Voloshin @argentumko - Intro to Text Kit: advanced typography for fun and profit [Video](https://www.youtube.com/watch?v=I3oB_8xNhPU)
+- Andyy Hope @andyyhope - 10 things I hate about UIKit [Video on YouTube](https://www.youtube.com/watch?v=7VkAOa8c8MY)
+- Ben Deckys @cocotutch - Custom Bezier Curves with UIViewAnimator [Video on YouTube](https://www.youtube.com/watch?v=r50BL6cp-6A)
+- Vlas Voloshin @argentumko - Intro to Text Kit: advanced typography for fun and profit [Video on YouTube](https://www.youtube.com/watch?v=I3oB_8xNhPU)
 
 ### Meta
 
@@ -141,10 +141,17 @@ Melbourne CocoaHeads Blog - [June Event](https://www.melbournecocoaheads.com/upd
 
 Melbourne CocoaHeads Blog - [June venue Change](https://www.melbournecocoaheads.com/updates/cocoaheads-no-106-update-venue-change)
 
-# #107 July
+# #107 July 13
+
+10 Years of Melbourne CocoaHeads. [See 2007](https://github.com/melbournecocoa/MelbourneCocoaheadsHistory/blob/master/2007.mdown)
 
 Theme - **All About Architecture**
 
+### Time & Location
+
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-07-13)
 
 ### Livestream
 
@@ -152,13 +159,22 @@ Theme - **All About Architecture**
 
 ### Presentations
 
+- Andyy Hope @andyyhope - The Month That Was
+- Mark Robinson @sparkyrobinson - There and Back Again: A React Native Tale
+- Jean-Étienne @jeanetienne - Modular Architecture
+- Matt Delves @mattdelves - Routing and ReSwift, concepts and benefits
+
 ### Meta
 
 Melbourne CocoHeads Blog - [Upcoming Meetup Topics](https://www.melbournecocoaheads.com/updates/upcoming-meetup-topics)
 
-# #108 August
+# #108 August 10
 
 Theme - **Swift 4**
+
+### Time & Location
+
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
 
 [Event link](https://www.melbournecocoaheads.com/events/meetup-2017-08-10)
 
@@ -174,9 +190,9 @@ Theme - **Swift 4**
 ### Presentations
 
 - Michael Fletcher - The Mont That Was
-- Jayan Varma @ozapps - "String Theory" [Video](https://www.youtube.com/watch?v=igFEVA0Z1D4)
-- Tom Adams - Swift 4 Decodable and GraphQL [Video](https://www.youtube.com/watch?v=ZEGdi0V41C8)
-- Stew Gleadow - Strongly Typed Values in Swift - [Video](https://www.youtube.com/watch?v=n3r3k6Kqkfc)
+- Jayan Varma @ozapps - "String Theory" [Video on YouTube](https://www.youtube.com/watch?v=igFEVA0Z1D4)
+- Tom Adams - Swift 4 Decodable and GraphQL [Video on YouTube](https://www.youtube.com/watch?v=ZEGdi0V41C8)
+- Stew Gleadow - Strongly Typed Values in Swift - [Video on YouTube](https://www.youtube.com/watch?v=n3r3k6Kqkfc)
 - Jesse Collis - Swift 4 & Swagger Codegen addendum updating your model to Swift 4
 
 ### Meta
@@ -187,6 +203,12 @@ Melbourne CocoHeads Blog - [August Meetup](https://www.melbournecocoaheads.com/u
 
 Theme - **Automation and Tooling**
 
+### Time & Location
+
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-09-14)
+
 ### Sponsor
 
 Realestate.com.au
@@ -195,9 +217,15 @@ Realestate.com.au
 
 Melbourne CocoaHeads Blog - [Upcoming Meetup Topics](https://www.melbournecocoaheads.com/updates/topics-for-cocoaheads-no-109-110-september-october-2017)
 
-# #110 October
+# #110 October 12
 
 Theme - **ARKit**
+
+### Time & Location
+
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-10-12)
 
 ### Sponsor
 
