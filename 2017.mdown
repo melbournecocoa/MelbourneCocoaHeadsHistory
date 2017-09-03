@@ -76,7 +76,7 @@ Outware
 
 ### Presentations
 
-- Ben Deckys @cocotutch The Month That Was.
+- Ben Deckys @cocotutch - The Month That Was.
 - Gio @mokagio - Back to the Future: Git Rebase for iOS Developers. [Video](https://www.youtube.com/watch?v=Zj-kvFJcLwc)
 - Chendo @chendo - Running RSpec on an actual iOS device with minimal modifications.
 - Jesse Collis @sirjec - Automaticly generating your API client. [Video](https://www.youtube.com/watch?v=EzKwi-u9jQo)
@@ -113,7 +113,7 @@ Melbourne CocoaHeads Blog - [Changes to CocoaHeads for 2017](https://www.melbour
 
 # #106 June 15
 
-Second Themed Meetup - **"Whats new from WWDC"**
+Second themed meetup - **"Whats new from WWDC"**
 
 ### Time & Location
 
