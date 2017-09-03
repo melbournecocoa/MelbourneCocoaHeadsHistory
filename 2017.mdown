@@ -1,12 +1,14 @@
 # Melbourne CocoaHeads History - 2017
 
-[Welcome to 2017 Blog Post](https://www.melbournecocoaheads.com/updates/cocoaheads-no-102-february-2017)
+Melbourne CocoaHeads Blog - [Welcome to 2017](https://www.melbournecocoaheads.com/updates/cocoaheads-no-102-february-2017)
 
-# CocoaHeads #102 February 9th
+Started using [Meetup.com](https://www.meetup.com/Melbourne-CocoaHeads/) for event management.
+
+# #102 February 9
 
 ### Time & Location
 
-630PM - Outware Level 3, 469 La Trobe Street, Melbourne
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
 
 [Event link](https://www.melbournecocoaheads.com/events/meetup-2017-02-09)
 
@@ -28,51 +30,176 @@ Andyy Hope / [Playgrounds Conference](http://www.playgroundscon.com)
 
 Melbourne CocoaHeads Blog - [Speakers for February](https://www.melbournecocoaheads.com/updates/cocoaheads-no-102-speakers-for-february)
 
-# March
+# #103 March 9
+
+### Time & Location
+
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-03-09)
+
+### Sponsor
+
+Outware
 
 ### Livestream
 
-- [Video 1](https://www.youtube.com/watch?v=x5g0mBsX_jQ&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
-- [Video 2](https://www.youtube.com/watch?v=zDIY3zT_2Qc&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
-- [Video 3](https://www.youtube.com/watch?v=oqbFRePNDd8&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+[Video 1](https://www.youtube.com/watch?v=x5g0mBsX_jQ&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=zDIY3zT_2Qc&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 3](https://www.youtube.com/watch?v=oqbFRePNDd8&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
-# April
+### Presentations
+
+- Jesse Collis @sirjec - The Month That Was
+- Tristan Ludowyk @tristandl - Side effects with ReSwift and Rx: Introducing redux-observable
+- Erica Chan - What the hell is Technology Law?
+- Jinju Jang @arle13 - Using Lottie
+- Dr. Soumitri Varadarajan - Why not practice Codesign?
+
+### Meta
+
+Melbourne CocoaHeads Blog - [March Event](https://www.melbournecocoaheads.com/updates/cocoaheads-no-103-march-event)
+
+# #104 April 13
+
+### Time & Location
+
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-04-13)
+
+### Sponsor
+
+Outware
 
 ### Livestream
 
-- [Video 1](https://www.youtube.com/watch?v=UiBuuOrbW7c&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
-- [Video 2](https://www.youtube.com/watch?v=9gSfgIMttcY&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
-- [Video 3](https://www.youtube.com/watch?v=_CU0R5LAgx8&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+- [Video 1](https://www.youtube.com/watch?v=UiBuuOrbW7c&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=9gSfgIMttcY&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 3](https://www.youtube.com/watch?v=_CU0R5LAgx8&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
-# May 
+### Presentations
+
+- Ben Deckys @cocotutch The Month That Was.
+- Gio @mokagio - Back to the Future: Git Rebase for iOS Developers. [Video](https://www.youtube.com/watch?v=Zj-kvFJcLwc)
+- Chendo @chendo - Running RSpec on an actual iOS device with minimal modifications.
+- Jesse Collis @sirjec - Automaticly generating your API client. [Video](https://www.youtube.com/watch?v=EzKwi-u9jQo)
+
+### Meta 
+
+Melbourne CocoaHeads Blog - [March Event](https://www.melbournecocoaheads.com/updates/cocoaheads-no-103-march-event)
+
+# #105 May 11
+
+Our first 'themed' meetup - **UIKit**, introduction of the CocoaHeads Crew. Annoucement on the [CocoaHeads Blog](https://www.melbournecocoaheads.com/updates/changes-to-cocoaheads-for-2017)
+
+### Time & Location
+
+630pm - Outware. Level 3, 469 La Trobe Street, Melbourne
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-05-11)
 
 ### Livestream
 
 - [Video](https://www.youtube.com/watch?v=wIylLF28l6A&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
-# June
+### Presentations
+
+- Andyy Hope @andyyhope - 10 things I hate about UIKit [Video](https://www.youtube.com/watch?v=7VkAOa8c8MY)
+- Ben Deckys @cocotutch - Custom Bezier Curves with UIViewAnimator [Video](https://www.youtube.com/watch?v=r50BL6cp-6A)
+- Vlas Voloshin @argentumko - Intro to Text Kit: advanced typography for fun and profit [Video](https://www.youtube.com/watch?v=I3oB_8xNhPU)
+
+### Meta
+
+Melbourne CocoaHeads Blog - [May Event](https://www.melbournecocoaheads.com/updates/cocoaheads-no-105-may-event)
+
+Melbourne CocoaHeads Blog - [Changes to CocoaHeads for 2017](https://www.melbournecocoaheads.com/updates/changes-to-cocoaheads-for-2017)
+
+# #106 June 15
+
+Second Themed Meetup - **"Whats new from WWDC"**
+
+### Time & Location
+
+630PM Sportsbet. Level 21, 367 Collins St, Melbourne
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-06-15)
+
+### Sponsor
+
+[DiUS](https://dius.com.au)
 
 ### Livestream
 
-- [Video 1](https://www.youtube.com/watch?v=voKPBGBxT-w&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
-- [Video 2]https://www.youtube.com/watch?v=WqNbGtrwR5Q&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
+- [Video 1](https://www.youtube.com/watch?v=voKPBGBxT-w&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=WqNbGtrwR5Q&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
-# July
+### Presentations
+
+- Vlas V, Ben Deckys, Jesse C - The WWDC that was, in three parts.
+- Tyrone Trevorrow - Ten long-awaited things that we didn't get at WWDC 2017.
+- Hon Weng Chong @dr1337 - Applying Deep Learning in iOS via CoreML.
+
+### Meta
+
+Melbourne CocoaHeads Blog - [June Event](https://www.melbournecocoaheads.com/updates/cocoaheads-no-106-wwdc-2017-edition)
+
+Melbourne CocoaHeads Blog - [June venue Change](https://www.melbournecocoaheads.com/updates/cocoaheads-no-106-update-venue-change)
+
+# #107 July
+
+Theme - **All About Architecture**
+
 
 ### Livestream
 
 - [Video](https://www.youtube.com/watch?v=J_V6R7VXe-g&t=40s&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
-# August
+### Presentations
+
+### Meta
+
+Melbourne CocoHeads Blog - [Upcoming Meetup Topics](https://www.melbournecocoaheads.com/updates/upcoming-meetup-topics)
+
+# #108 August
+
+Theme - **Swift 4**
+
+[Event link](https://www.melbournecocoaheads.com/events/meetup-2017-08-10)
+
+### Sponsor
+
+[Redbubble](https://www.redbubble.com)
 
 ### Livestream
 
 - [Video 1](https://www.youtube.com/watch?v=cfWOllnRZgs&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 - [Video 2](https://www.youtube.com/watch?v=yE-mxFmdArc&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
-# September
+### Presentations
 
-# October
+- Michael Fletcher - The Mont That Was
+- Jayan Varma @ozapps - "String Theory" [Video](https://www.youtube.com/watch?v=igFEVA0Z1D4)
+- Tom Adams - Swift 4 Decodable and GraphQL [Video](https://www.youtube.com/watch?v=ZEGdi0V41C8)
+- Stew Gleadow - Strongly Typed Values in Swift - [Video](https://www.youtube.com/watch?v=n3r3k6Kqkfc)
+- Jesse Collis - Swift 4 & Swagger Codegen addendum updating your model to Swift 4
 
-# Novermber
+### Meta
+
+Melbourne CocoHeads Blog - [August Meetup](https://www.melbournecocoaheads.com/updates/cocoaheads-no-108-august-2017-meetup)
+
+# #109 September 14
+
+Theme - **Automation and Tooling**
+
+### Sponsor
+
+Realestate.com.au
+
+### Meta
+
+Melbourne CocoaHeads Blog - [Upcoming Meetup Topics](https://www.melbournecocoaheads.com/updates/topics-for-cocoaheads-no-109-110-september-october-2017)
+
+# #110 October
+
+Theme - **ARKit**
+
+### Sponsor
+
+JTribe
 
