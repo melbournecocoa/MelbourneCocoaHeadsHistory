@@ -223,17 +223,11 @@ Level 1 520 Bourke Street
 
 Australia Post
 
-### Livestream
-
-There was a livestream this month.
-
-Link TBC
-
 ### Presentations
 
-- Jon Manning @desplesda - "What's new in  iOS Game Dev features (GameplayKit, SpriteKit, ReplayKit)"
+- Jon Manning @desplesda - "What's new in  iOS Game Dev features (GameplayKit, SpriteKit, ReplayKit)" [Video on YouTube](https://www.youtube.com/watch?v=MkqOLOTWzZY&list=PLRdg1MF7wOwzWGMsIx65iZbiqjqS8lss6)
 - Adrian Maciburko @maciburko - "Prototyping and exploring custom interactions for the Apple TV"
-- Ashton Williams @ashtonDev - "Scheming Defaults"
+- Ashton Williams @ashtonDev - "Scheming Defaults" [Video on YouTube](https://www.youtube.com/watch?v=_LXqotCQSiE&list=PLRdg1MF7wOwzWGMsIx65iZbiqjqS8lss6)
 - Alvaro Maz @alvaromaz - "Rebuilding citizenship for the 21st century through technology"
 
 ### Lightning Talks
@@ -256,9 +250,7 @@ Level 1 520 Bourke Street
 
 ### Livestream
 
-There was a livestream this month.
-
-Link TBC
+[Video](https://youtu.be/BJ0FWxp3Xz8
 
 ### Presentations
 
