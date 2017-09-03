@@ -129,11 +129,14 @@ Second themed meetup - **"Whats new from WWDC"**
 
 [Video 1](https://www.youtube.com/watch?v=voKPBGBxT-w&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC), [Video 2](https://www.youtube.com/watch?v=WqNbGtrwR5Q&list=PLRdg1MF7wOwy0bT6rKkryHlLhdqP1QrGC)
 
+Uunfortunately the LiveStream didn't capture all presentations.
+
 ### Presentations
 
 - Vlas V, Ben Deckys, Jesse C - The WWDC that was, in three parts.
 - Tyrone Trevorrow - Ten long-awaited things that we didn't get at WWDC 2017.
-- Hon Weng Chong @dr1337 - Applying Deep Learning in iOS via CoreML.
+- Hon Weng Chong @dr1337 - Applying Deep Learning in iOS via CoreML. [Video on YouTube](https://youtu.be/iuVTLRtKjWY)
+- Juhan Hion - Dyld3. [Video on YouTube](https://youtu.be/vlj4yjY-05o)
 
 ### Meta
 
