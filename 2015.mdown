@@ -166,7 +166,7 @@ Odecee
 ### Presentations
 
 - Adam Sharp (@sharplet) - ReactiveCocoa in Practice.
-- Jean-Étienne Parrot (@jeanetienne) - Clean Architecture: VIPER at scale.
+- Jean-Étienne Parrot (@jeanetienne) - Clean Architecture: VIPER at scale - [Slides](https://github.com/jeanetienne/viper-slides/raw/master/Real_Life_VIPER.pdf), [Video on Youtube](https://www.youtube.com/watch?v=YOI0yCge3jk)
 - Shane Whitehead - Through the looking glass - lessons learnt developing my first app
 
 ### Lightning Talks
