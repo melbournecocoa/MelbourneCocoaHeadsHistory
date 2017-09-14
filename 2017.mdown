@@ -215,6 +215,16 @@ Theme - **Automation and Tooling**
 
 Realestate.com.au
 
+### Presentations
+
+- Gavan Chan [@gavanchan][gavanchan] - The Month That Was
+- Stew Gleadow - Automated Workflow
+- Jean-Étienne [@jeanetienne][jeanetienne] - Xcode 9 File Templates
+
+### Lightning Talks
+
+- Ben Deckys [@cocotutch][cocotouch] - Supporting iPhone X
+
 ### Meta
 
 Melbourne CocoaHeads Blog - [Upcoming Meetup Topics](https://www.melbournecocoaheads.com/updates/topics-for-cocoaheads-no-109-110-september-october-2017)
@@ -233,13 +243,15 @@ Theme - **ARKit**
 
 JTribe
 
+
+[cocotouch]: https://www.twitter.com/cocotouch
+[gavanchan]: https://www.twitter.com/gavanchan
 [ozapps]: https://www.twitter.com/ozapps
 [mattdelves]: https://www.twitter.com/mattdelves
 [mootpointer]: https://www.twitter.com/mootpointer
 [sirjec]: https://www.twitter.com/sirjec
 [tristandl]: https://www.twitter.com/tristandl
 [arle13]: https://www.twitter.com/arle13
-[cocotouch]: https://www.twitter.com/cocotutch
 [mokagio]: https://www.twitter.com/mokagio
 [chendo]: https://www.twitter.com/chendo
 [andyyhope]: https://www.twitter.com/andyyhope
