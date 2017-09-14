@@ -1,6 +1,6 @@
 # Melbourne Cocoaheads History
 
-This list was originally compiled by [Jesse Collis](http://twitter.com/sirjec).
+This list was originally compiled by [Jesse Collis](https://twitter.com/sirjec).
 
 Thanks to [Gareth Townsend](http://www.garethtownsend.info) and [Sean Woodhouse](http://ittybittyapps.com) for organising all the speakers over the years.
 
