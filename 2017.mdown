@@ -191,7 +191,7 @@ Theme - **Swift 4**
 
 ### Presentations
 
-- Michael Fletcher - The Mont That Was
+- Michael Fletcher - The Month That Was
 - Jayan Varma @ozapps - "String Theory" [Video on YouTube](https://www.youtube.com/watch?v=igFEVA0Z1D4)
 - Tom Adams - Swift 4 Decodable and GraphQL [Video on YouTube](https://www.youtube.com/watch?v=ZEGdi0V41C8)
 - Stew Gleadow - Strongly Typed Values in Swift - [Video on YouTube](https://www.youtube.com/watch?v=n3r3k6Kqkfc)
