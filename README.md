@@ -11,11 +11,11 @@ Please don't hesitate to fork this repo, correct my spelling, add fill in the ga
 - [Melbourne CocoaHeads Website](https://melbournecocoaheads.com)
 - [@melbournecocoa](https://twitter.com/melbournecocoa) on twitter
 - [Melbourne CocoaHeads on Meetup.com](https://www.meetup.com/Melbourne-CocoaHeads/)
-- [Melbounre Cocoaheads on YouTube](https://www.youtube.com/channel/UCpTDVzUkk9ieAyVyUi28bWw)
+- [Melbourne CocoaHeads on YouTube](https://www.youtube.com/channel/UCpTDVzUkk9ieAyVyUi28bWw)
 
-## Historial Information
+## Historical Information
 
-- [Melbounre Cocoaheads on Vimeo](https://vimeo.com/channels/melbournecocoaheads)
+- [Melbourne Cocoaheads on Vimeo](https://vimeo.com/channels/melbournecocoaheads)
 - [CocoaheadsAU Google Group](https://groups.google.com/forum/#!forum/cocoaheadsau)
 
 ## By The Year
