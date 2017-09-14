@@ -1,6 +1,6 @@
-# Melbourne CocoaHeads History
+# Melbourne Cocoaheads History
 
-This list was originally compiled by [Jesse Collis](http://twitter.com/sirjec)
+This list was originally compiled by [Jesse Collis](https://twitter.com/sirjec).
 
 Thanks to [Gareth Townsend](http://www.garethtownsend.info) and [Sean Woodhouse](http://ittybittyapps.com) for organising all the speakers over the years.
 
@@ -8,14 +8,14 @@ Please don't hesitate to fork this repo, correct my spelling, add fill in the ga
 
 ## Current Information
 
-- [Melbourne CocoaHeads Website](https://melbournecocoaheads.com)
+- [Melbourne Cocoaheads Website](https://melbournecocoaheads.com)
 - [@melbournecocoa](https://twitter.com/melbournecocoa) on twitter
-- [Melbourne CocoaHeads on Meetup.com](https://www.meetup.com/Melbourne-CocoaHeads/)
-- [Melbounre Cocoaheads on YouTube](https://www.youtube.com/channel/UCpTDVzUkk9ieAyVyUi28bWw)
+- [Melbourne Cocoaheads on Meetup.com](https://www.meetup.com/Melbourne-CocoaHeads/)
+- [Melbourne Cocoaheads on YouTube](https://www.youtube.com/channel/UCpTDVzUkk9ieAyVyUi28bWw)
 
-## Historial Information
+## Historical Information
 
-- [Melbounre Cocoaheads on Vimeo](https://vimeo.com/channels/melbournecocoaheads)
+- [Melbourne Cocoaheads on Vimeo](https://vimeo.com/channels/melbournecocoaheads)
 - [CocoaheadsAU Google Group](https://groups.google.com/forum/#!forum/cocoaheadsau)
 
 ## By The Year

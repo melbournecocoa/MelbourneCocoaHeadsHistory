@@ -22,9 +22,9 @@ Andyy Hope / [Playgrounds Conference](http://www.playgroundscon.com)
 
 ### Presentations
 
-- Jayant Varma @ozapps - Learn development in (xxx time)
-- Matt Delves @mattdelves - Understanding Your Users
-- Andrew Harvey @mootpointer - Zova App Demo
+- Jayant Varma [@ozapps][ozapps] - Learn development in (xxx time)
+- Matt Delves [@mattdelves][mattdelves] - Understanding Your Users
+- Andrew Harvey [@mootpointer][mootpointer] - Zova App Demo
 
 ### Meta
 
@@ -48,10 +48,10 @@ Outware
 
 ### Presentations
 
-- Jesse Collis @sirjec - The Month That Was
-- Tristan Ludowyk @tristandl - Side effects with ReSwift and Rx: Introducing redux-observable
+- Jesse Collis [@sirjec][sirjec] - The Month That Was
+- Tristan Ludowyk [@tristandl][tristandl] - Side effects with ReSwift and Rx: Introducing redux-observable
 - Erica Chan - What the hell is Technology Law?
-- Jinju Jang @arle13 - Using Lottie
+- Jinju Jang [@arle13][arle13] - Using Lottie
 - Dr. Soumitri Varadarajan - Why not practice Codesign?
 
 ### Meta
@@ -76,10 +76,10 @@ Outware
 
 ### Presentations
 
-- Ben Deckys @cocotutch - The Month That Was.
-- Gio @mokagio - Back to the Future: Git Rebase for iOS Developers. [Video on YouTube](https://www.youtube.com/watch?v=Zj-kvFJcLwc)
-- Chendo @chendo - Running RSpec on an actual iOS device with minimal modifications.
-- Jesse Collis @sirjec - Automaticly generating your API client. [Video on YouTube](https://www.youtube.com/watch?v=EzKwi-u9jQo)
+- Ben Deckys [@cocotutch][cocotutch] - The Month That Was.
+- Gio [@mokagio][mokagio] - Back to the Future: Git Rebase for iOS Developers. [Video on YouTube](https://www.youtube.com/watch?v=Zj-kvFJcLwc)
+- Chendo [@chendo][chendo] - Running RSpec on an actual iOS device with minimal modifications.
+- Jesse Collis [@sirjec][sirjec] - Automaticly generating your API client. [Video on YouTube](https://www.youtube.com/watch?v=EzKwi-u9jQo)
 
 ### Meta 
 
@@ -101,9 +101,9 @@ Our first 'themed' meetup - **UIKit**, introduction of the CocoaHeads Crew. Anno
 
 ### Presentations
 
-- Andyy Hope @andyyhope - 10 things I hate about UIKit [Video on YouTube](https://www.youtube.com/watch?v=7VkAOa8c8MY)
-- Ben Deckys @cocotutch - Custom Bezier Curves with UIViewAnimator [Video on YouTube](https://www.youtube.com/watch?v=r50BL6cp-6A)
-- Vlas Voloshin @argentumko - Intro to Text Kit: advanced typography for fun and profit [Video on YouTube](https://www.youtube.com/watch?v=I3oB_8xNhPU)
+- Andyy Hope [@andyyhope][andyyhope] - 10 things I hate about UIKit [Video on YouTube](https://www.youtube.com/watch?v=7VkAOa8c8MY)
+- Ben Deckys [@cocotutch][cocotouch] - Custom Bezier Curves with UIViewAnimator [Video on YouTube](https://www.youtube.com/watch?v=r50BL6cp-6A)
+- Vlas Voloshin [@argentumko][argentumko] - Intro to Text Kit: advanced typography for fun and profit [Video on YouTube](https://www.youtube.com/watch?v=I3oB_8xNhPU)
 
 ### Meta
 
@@ -135,7 +135,7 @@ Uunfortunately the LiveStream didn't capture all presentations.
 
 - Vlas V, Ben Deckys, Jesse C - The WWDC that was, in three parts.
 - Tyrone Trevorrow - Ten long-awaited things that we didn't get at WWDC 2017.
-- Hon Weng Chong @dr1337 - Applying Deep Learning in iOS via CoreML. [Video on YouTube](https://youtu.be/iuVTLRtKjWY)
+- Hon Weng Chong [@dr1337][dr1337] - Applying Deep Learning in iOS via CoreML. [Video on YouTube](https://youtu.be/iuVTLRtKjWY)
 - Juhan Hion - Dyld3. [Video on YouTube](https://youtu.be/vlj4yjY-05o)
 
 ### Meta
@@ -162,10 +162,10 @@ Theme - **All About Architecture**
 
 ### Presentations
 
-- Andyy Hope @andyyhope - The Month That Was
-- Mark Robinson @sparkyrobinson - There and Back Again: A React Native Tale
-- Jean-Étienne @jeanetienne - Modular Architecture
-- Matt Delves @mattdelves - Routing and ReSwift, concepts and benefits
+- Andyy Hope [@andyyhope][andyyhope] - The Month That Was
+- Mark Robinson [@sparkyrobinson][sparkyrobinson] - There and Back Again: A React Native Tale
+- Jean-Étienne [@jeanetienne][jeanetienne] - Modular Architecture
+- Matt Delves [@mattdelves][mattdelves] - Routing and ReSwift, concepts and benefits
 
 ### Meta
 
@@ -192,7 +192,7 @@ Theme - **Swift 4**
 ### Presentations
 
 - Michael Fletcher - The Mont That Was
-- Jayan Varma @ozapps - "String Theory" [Video on YouTube](https://www.youtube.com/watch?v=igFEVA0Z1D4)
+- Jayan Varma [@ozapps][ozapps] - "String Theory" [Video on YouTube](https://www.youtube.com/watch?v=igFEVA0Z1D4)
 - Tom Adams - Swift 4 Decodable and GraphQL [Video on YouTube](https://www.youtube.com/watch?v=ZEGdi0V41C8)
 - Stew Gleadow - Strongly Typed Values in Swift - [Video on YouTube](https://www.youtube.com/watch?v=n3r3k6Kqkfc)
 - Jesse Collis - Swift 4 & Swagger Codegen addendum updating your model to Swift 4
@@ -243,6 +243,19 @@ Theme - **ARKit**
 
 JTribe
 
+
 [cocotouch]: https://www.twitter.com/cocotouch
-[jeanetienne]: https://www.twitter.com/jeanetienne
 [gavanchan]: https://www.twitter.com/gavanchan
+[ozapps]: https://www.twitter.com/ozapps
+[mattdelves]: https://www.twitter.com/mattdelves
+[mootpointer]: https://www.twitter.com/mootpointer
+[sirjec]: https://www.twitter.com/sirjec
+[tristandl]: https://www.twitter.com/tristandl
+[arle13]: https://www.twitter.com/arle13
+[mokagio]: https://www.twitter.com/mokagio
+[chendo]: https://www.twitter.com/chendo
+[andyyhope]: https://www.twitter.com/andyyhope
+[argentumko]: https://www.twitter.com/argentumko
+[dr1337]: https://www.twitter.com/dr1337
+[sparkyrobinson]: https://www.twitter.com/sparkyrobinson
+[jeanetienne]: https://www.twitter.com/jeanetienne
