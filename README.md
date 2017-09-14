@@ -1,4 +1,4 @@
-# Melbourne CocoaHeads History
+# Melbourne Cocoaheads History
 
 This list was originally compiled by [Jesse Collis](http://twitter.com/sirjec).
 
@@ -8,10 +8,10 @@ Please don't hesitate to fork this repo, correct my spelling, add fill in the ga
 
 ## Current Information
 
-- [Melbourne CocoaHeads Website](https://melbournecocoaheads.com)
+- [Melbourne Cocoaheads Website](https://melbournecocoaheads.com)
 - [@melbournecocoa](https://twitter.com/melbournecocoa) on twitter
-- [Melbourne CocoaHeads on Meetup.com](https://www.meetup.com/Melbourne-CocoaHeads/)
-- [Melbourne CocoaHeads on YouTube](https://www.youtube.com/channel/UCpTDVzUkk9ieAyVyUi28bWw)
+- [Melbourne Cocoaheads on Meetup.com](https://www.meetup.com/Melbourne-CocoaHeads/)
+- [Melbourne Cocoaheads on YouTube](https://www.youtube.com/channel/UCpTDVzUkk9ieAyVyUi28bWw)
 
 ## Historical Information
 
