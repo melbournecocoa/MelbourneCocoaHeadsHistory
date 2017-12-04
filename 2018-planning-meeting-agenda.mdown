@@ -20,7 +20,7 @@ Discussion on 2018 vision on outreach and inclusion
 
 Discussion on 2018 vision on an improved Hack Night. Dot points exist in [this gist][1].
 
-## Decentralising Mgmt
+### Decentralising Mgmt
 
 Discussion on 2018 vision on sharing the load month to month. Break down of general responsibilities are in [this gist][1].
 
@@ -33,6 +33,10 @@ Ben Deckys to introduce the idea of a Diversity Comittee for 2018.
 ### A Melbourne iOS conference 2018?
 
 Is there apetite for a Melbourne iOS centric conference in 2018? Is it possible?
+
+### Additional Input and Feedback
+
+Discuss any unplanned feedback or input from the room. 
 
 ### Name tags for RSVPs ?
 
