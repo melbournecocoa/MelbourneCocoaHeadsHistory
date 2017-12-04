@@ -1,0 +1,72 @@
+# Melbourne CocoaHeads 2018 Planning Meeting
+
+5:45pm 7 December 2017, Itty Bitty Apps (84 William Street, Melbourne)
+
+## Agenda
+
+## Vision for 2018
+
+- A focus on outreach; increasing new members attendance; making new members feel welcome; increased participation
+- A new Hack Night
+- Decentralise the management/leadership
+
+## Discussion Points - 2018 Vision
+
+### Outreach and Inclusion
+
+Discussion on 2018 vision on outreach and inclusion
+
+### Hack Night 2018
+
+Discussion on 2018 vision on an improved Hack Night. Dot points exist in [this gist][1].
+
+## Decentralising Mgmt
+
+Discussion on 2018 vision on sharing the load month to month. Break down of general responsibilities are in [this gist][1].
+
+## Discussion Points - Open for Input
+
+### Diversity Comitee
+
+Ben Deckys to introduce the idea of a Diversity Comittee for 2018.
+
+### A Melbourne iOS conference 2018?
+
+Is there apetite for a Melbourne iOS centric conference in 2018? Is it possible?
+
+### Name tags for RSVPs ?
+
+Discuss whether or not this is a good idea.
+
+### Coordination with other groups (eg. GDG)
+
+Discuss potential opportunities for coordination/cross polination with other meetups, including the Google Developer Group.
+
+### Drinks Night
+
+Discuss merits of a 'drinks night' event we can publish on Meetup along side other events.
+
+### Code of Conduct
+
+Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHeads][2]
+
+## BAU 2018
+
+### Events
+
+- Presentation Night - February through December. 2nd Thursday. Move back for WWDC if applicable.
+- Hack Night - February through December.
+- Drinks Night - (as per discussion above)
+- NSBreakfast - First Friday - Matt D
+
+### Venues
+
+Discuss status of venue for Presentation Night and venue for Hack Night.
+
+### Budget and Sponosorship
+
+Discuss financials and sponsorship opportunities for 2018
+
+
+[1]: https://gist.github.com/jessedc/3ae72609e53c0dc627711494d72bbfc0
+[2]: http://www.sydneycocoaheads.com/policies/#code_of_conduct
