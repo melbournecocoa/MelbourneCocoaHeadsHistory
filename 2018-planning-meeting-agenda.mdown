@@ -12,6 +12,8 @@
 
 ## Discussion Points - 2018 Vision
 
+> Jesse to go over key vision points for 2018.
+
 ### Outreach and Inclusion
 
 Discussion on 2018 vision on outreach and inclusion.
@@ -25,6 +27,8 @@ Discussion on 2018 vision on an improved Hack Night. Dot points exist in [this g
 Discussion on 2018 vision on sharing the load month to month. Break down of general responsibilities are in [this gist][1].
 
 ## Organised Discussion Points
+
+> A few small topics raised befhorehand 
 
 ### Diversity Comitee
 
@@ -52,9 +56,11 @@ Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHead
 
 ## Open Floor
 
-Open the room to any additional discussions or input.
+> Open the floor to unplanned discussions, feeback or input.
 
 ## BAU 2018
+
+> Quick outline of the details for 2018.
 
 ### Events
 
