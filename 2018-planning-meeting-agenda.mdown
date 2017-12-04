@@ -1,6 +1,6 @@
 # Melbourne CocoaHeads 2018 Planning Meeting
 
-5:45pm 7 December 2017, Itty Bitty Apps (84 William Street, Melbourne)
+7 December 2017 from 5:45pm @ Itty Bitty Apps (84 William Street, Melbourne) [Eventbrite Link][3]
 
 ## Agenda
 
@@ -74,3 +74,4 @@ Discuss financials and sponsorship opportunities for 2018
 
 [1]: https://gist.github.com/jessedc/3ae72609e53c0dc627711494d72bbfc0
 [2]: http://www.sydneycocoaheads.com/policies/#code_of_conduct
+[3]: https://www.eventbrite.com.au/e/melbourne-coocaheads-2018-planning-session-tickets-40313078503
