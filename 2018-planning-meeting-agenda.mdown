@@ -1,6 +1,6 @@
 # Melbourne CocoaHeads 2018 Planning Meeting
 
-7 December 2017 from 5:45pm @ Itty Bitty Apps (84 William Street, Melbourne) [Eventbrite Link][3]
+7 December 2017 from 5:45pm @ Itty Bitty Apps (84 William Street, Melbourne) - [Eventbrite Link][3]
 
 ## Agenda
 
@@ -14,7 +14,7 @@
 
 ### Outreach and Inclusion
 
-Discussion on 2018 vision on outreach and inclusion
+Discussion on 2018 vision on outreach and inclusion.
 
 ### Hack Night 2018
 
@@ -28,11 +28,11 @@ Discussion on 2018 vision on sharing the load month to month. Break down of gene
 
 ### Diversity Comitee
 
-Ben Deckys to introduce the idea of a Diversity Comittee for 2018.
+Ben Deckys to introduce the idea of a Diversity Committee for 2018.
 
 ### A Melbourne iOS conference 2018
 
-Is there apetite for a Melbourne iOS centric conference in 2018? Is it possible?
+Is there appetite for a Melbourne iOS centric conference in 2018? Is it possible?
 
 ### Additional Input and Feedback
 
@@ -44,7 +44,7 @@ Discuss whether or not this is a good idea.
 
 ### Coordination with other groups
 
-Discuss potential opportunities for coordination/cross polination with other meetups, including the Google Developer Group.
+Discuss potential opportunities for coordination/cross pollination with other meetups, including the Google Developer Group.
 
 ### Drinks Night
 
@@ -52,7 +52,7 @@ Discuss merits of a 'drinks night' event we can publish on Meetup along side oth
 
 ### Code of Conduct
 
-Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHeads][2]
+Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHeads][2].
 
 ## BAU 2018
 
@@ -67,9 +67,9 @@ Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHead
 
 Discuss status of venue for Presentation Night and venue for Hack Night.
 
-### Budget and Sponosorship
+### Budget and Sponsorship
 
-Discuss financials and sponsorship opportunities for 2018
+Discuss financials and sponsorship opportunities for 2018.
 
 
 [1]: https://gist.github.com/jessedc/3ae72609e53c0dc627711494d72bbfc0
