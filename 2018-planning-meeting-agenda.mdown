@@ -24,7 +24,7 @@ Discussion on 2018 vision on an improved Hack Night. Dot points exist in [this g
 
 Discussion on 2018 vision on sharing the load month to month. Break down of general responsibilities are in [this gist][1].
 
-## Discussion Points
+## Organised Discussion Points
 
 ### Diversity Comitee
 
@@ -33,10 +33,6 @@ Ben Deckys to introduce the idea of a Diversity Committee for 2018.
 ### A Melbourne iOS conference 2018
 
 Is there appetite for a Melbourne iOS centric conference in 2018? Is it possible?
-
-### Additional Input and Feedback
-
-Discuss any unplanned feedback or input from the room. 
 
 ### Name tags for RSVPs
 
@@ -53,6 +49,10 @@ Discuss merits of a 'drinks night' event we can publish on Meetup along side oth
 ### Code of Conduct
 
 Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHeads][2].
+
+## Open Floor
+
+Open the room to any additional discussions or input.
 
 ## BAU 2018
 
