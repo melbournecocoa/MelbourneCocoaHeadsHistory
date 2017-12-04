@@ -18,6 +18,10 @@ Please don't hesitate to fork this repo, correct my spelling, add fill in the ga
 - [Melbourne Cocoaheads on Vimeo](https://vimeo.com/channels/melbournecocoaheads)
 - [CocoaheadsAU Google Group](https://groups.google.com/forum/#!forum/cocoaheadsau)
 
+## Planning Sessions
+
+- [2018 Planning Meeting Agenda](2018-planning-meeting-agenda.mdown)
+
 ## By The Year
 
 - [2007](2007.mdown)
