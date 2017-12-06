@@ -4,6 +4,10 @@
 
 ## Agenda
 
+## Introductions
+
+Let's go around the room, let everyone say hi.
+
 ## Vision for 2018
 
 - A focus on outreach; increasing new members attendance; making new members feel welcome; increased participation
@@ -53,6 +57,10 @@ Discuss merits of a 'drinks night' event we can publish on Meetup along side oth
 ### Code of Conduct
 
 Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHeads][2].
+
+### Themed meetups
+
+Yes/no/maybe?
 
 ## Open Floor
 
