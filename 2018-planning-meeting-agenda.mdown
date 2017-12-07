@@ -6,7 +6,7 @@
 
 ## Introductions
 
-Let's go around the room, let everyone say hi.
+> Let's go around the room, let everyone say hi.
 
 ## Vision for 2018
 
@@ -61,6 +61,10 @@ Discuss introduction of a code of conduct. Similar in style to [Sydney CocoaHead
 ### Themed meetups
 
 Yes/no/maybe?
+
+### Venue for 208
+
+Discuss some options for venues
 
 ## Open Floor
 
