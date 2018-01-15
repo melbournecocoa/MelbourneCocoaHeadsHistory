@@ -1,0 +1,170 @@
+# Melbourne CocoaHeads 2018 Planning Meeting Minutes/Notes
+
+7 December 2017 from 5:45pm @ Itty Bitty Apps
+
+[Agenda Link][agenda]
+
+## In Attendance
+
+- Audrey Tam
+- Ben Deckys
+- Caroline Jones
+- Huw Rowlands
+- Jesse Collis (Organiser CocoaHeads)
+- Jonny Sagorin
+- Kate Lanyon
+- Luke Sleeman (Organiser GDG)
+- Luke Tupper
+- Marius Ursache
+- Michael Fletcher
+- Nabila Herzegovina
+- Prasanna Gopalakrishnan
+- Queena Huang
+- Rob Amos (Organiser AWS Melbourne)
+- Sean Woodhouse
+- Steward Gleadow
+
+## Key areas of discussion
+
+- Hack Night
+- Code of Conduct & Diversity
+- Presentation Night format
+- Additional points / Notes
+
+## Sub comittees
+
+> The outcomes of some discussions lead to creating a sub-committee to discuss things further.
+
+### Hack Night Sub Committee
+
+	- Prasanna G
+	- Luke T
+	- Ben D
+	- Stew G
+	- Huw R
+	- Luke S
+	- Marius U
+  
+  **Hack night organising slack group `#hack-night-v2`**
+
+### Code of Conduct Sub Committee
+
+	- Sean W
+	- Jonny S
+	- Kate L
+
+### Diversity Sub Committee
+
+	- Ben D
+	- Kate L
+
+## Discussion - Hack Night
+
+Discussion stemmed from an introdcution based on the [dot points outlined here](https://gist.github.com/jessedc/3ae72609e53c0dc627711494d72bbfc0#events-in-2018)
+
+- Create an encouraging environment for new people.
+- Encourage coaching
+- A core group should attends each month
+- Each night should have a "break the ice" activity
+- Start by asking everyone "What are you looking to learn, what could you help others with?"
+
+### Hack Night Venue
+
+There are a number of opportunities for Hack Night venues that should be explored. The main consideration for venue is location for ease/safety of travel home.
+
+Preferably the venue would provide drinks/food for the attendees.
+
+ - Odecee @ William/Little Flinders - Michael F
+ - AGL @ Southern Cross? - Luke T
+ - Aconex @ Exhibition/Lt Flinders - Stew G
+ - Roam2Rio @ Richmond Station - Ben D
+ - IBA @Collins/William St- Sean W
+ - TeamSquae (common area) @Bourke/William - Rob A/Jesse C
+ - REA @ Church St Richmond - Prasanna G
+
+ Ruby group is currently hosted at REA in Richmond.
+
+### A single Hack Night for GDG & CocoaHeads
+
+We discussed the idea of combining efforts and running a single physical event for both GDG and CocoaHeads, while promoting them separately. The event would have representatives from each group.
+
+### Hack _night_?
+
+Does Hack Night need to be at night? What about reaching out to other companies who do "Lunch and Learns" or "Brown Bags" and asking them to open up to the community?
+
+### Hack Night Committee
+
+A hack night committee was established to discuss and finalise details prior to February.
+
+## Discussion - Code of Conduct / Diversity
+
+Discussion around some of the "in jokes", especially referencing the heckling between more established members that sets the wrong tone and may discourage new members from contributing or attending in the future.
+
+Senior/long term members should model good behaviour, setting a good tone of mutual respect for speakers and others.
+
+A wide, senior group should take it upon themselves to follow up any unacceptable behaviour either on the night in person or afterwards.
+
+It was decided that a Code of Conduct / Rules of Engagement or formalisation of behavioural expectations would be beneficial.
+
+Discussion was had around the creation of a diversity committee, that would be responsible for considering inclusion and diversity.
+
+
+### Code of Conduct committee
+
+A code of conduct committee and a smaller diversity committee was established
+
+## Discussion - Presentation Night Format
+
+Main discussion was around the length of CocoaHeads event. It was generally agreed that a shorter evening modelled around how the GDG group operate would be more accessibly to people who often leave at the current 8pm pizza break.
+
+The food options where discussed, but a pertinently point was raised that the food and drink are not a main priority and a welcoming, comfortable event would trump any food choices - essentially iterating on the pizza is not the problem.
+
+### Key Changes
+
+- Pizza from 6:00-6:30
+- Welcome/Open at 6:30
+- Presentations (2x lightning) 6:45-7:20
+- Break 7:20-7:30
+- Main Presentation 7:30-8pm
+- Finish 8~8:15
+- All leave venue by 8:45pm
+
+A run schedule of times will be published up front.
+
+- Rob A, Ben D, Sean W, Jesse C to finalise this format.
+
+### Sponsorship 2018
+
+Previous budget was $1000 per month, operating at a margin of 10-20% in the 2018 Financial year so far.
+
+Discussion around previous sponsorship arrangement, consideration around a tiered (Gold/Silver/Bronze) model organised upfront rather than the month to month model used over the last few years.
+
+### Venue
+
+The warmest lead for a Venue in 2018 is TeamSquare, they can confirm the first few months of the year and we are confident under it's new management that will continue through to the end of the year.
+
+Options:
+
+- Teamsquare
+- RMIT Online (un confirmed)
+- Odecee, possibility of sponsoring all meetups (unconfirmed)
+- We Work
+
+The GDG and AWS meetup are also looking to be hosted at TeamSquare.
+
+
+## Additional Notes / Discussions
+
+### Collecting feedback on the night from attendees
+
+- Rob A, Michael F to discuss the viability of something similar to what YOW does or possibly something more detailed.
+
+### Outreach/coordination with other communities
+
+	- Outreach to student community: Nabila H
+	- Outreach to RMIT Online: Jonny S
+	- Other groups - Girls who Code Etc
+
+
+
+[agenda]: https://github.com/melbournecocoa/MelbourneCocoaHeadsHistory/blob/master/2018-planning-meeting-agenda.mdown
