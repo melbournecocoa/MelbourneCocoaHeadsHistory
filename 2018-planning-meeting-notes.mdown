@@ -117,21 +117,21 @@ A code of conduct committee and a smaller diversity committee was established
 
 Main discussion was around the length of CocoaHeads event. It was generally agreed that a shorter evening modelled around how the GDG group operate would be more accessibly to people who often leave at the current 8pm pizza break.
 
-The food options where discussed, but a pertinently point was raised that the food and drink are not a main priority and a welcoming, comfortable event would trump any food choices - essentially iterating on the pizza is not the problem.
+The food options where discussed, but a pertinent point was raised that the food and drink are not a main priority and a welcoming, comfortable event would trump any food choices - essentially iterating on the pizza is not the problem.
 
 ### Key Changes
 
-- Pizza from 6:00-6:30
+- Pizza 6:00 - 6:30
 - Welcome/Open at 6:30
-- Presentations (2x lightning) 6:45-7:20
-- Break 7:20-7:30
-- Main Presentation 7:30-8pm
-- Finish 8~8:15
+- Presentations (2x lightning) 6:45 - 7:20
+- Break 7:20 - 7:30
+- Main Presentation 7:30 - 8pm
+- Close/Finish 8 ~ 8:15
 - All leave venue by 8:45pm
 
-A run schedule of times will be published up front.
+A schedule of times will be published up front and on the website.
 
-- Rob A, Ben D, Sean W, Jesse C to finalise this format.
+- Rob A, Ben D, Sean W, Jesse C to finalise this format. **update:** Slack channel `#meetup-format-2018`
 
 ### Sponsorship 2018
 
