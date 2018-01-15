@@ -21,6 +21,7 @@ Please don't hesitate to fork this repo, correct my spelling, add fill in the ga
 ## Planning Sessions
 
 - [2018 Planning Meeting Agenda](2018-planning-meeting-agenda.mdown)
+- [2018 Planning Meeting Minutes](2018-planning-meeting-notes.mdown)
 
 ## By The Year
 
