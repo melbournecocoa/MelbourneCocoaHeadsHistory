@@ -51,7 +51,7 @@ Outware
 - Jesse Collis [@sirjec][sirjec] - The Month That Was
 - Tristan Ludowyk [@tristandl][tristandl] - Side effects with ReSwift and Rx: Introducing redux-observable
 - Erica Chan - What the hell is Technology Law?
-- Jinju Jang [@arle13][arle13] - Using Lottie
+- Jinju Jang [@arle13][arle13] - Using Lottie [Livestream Direct Link](https://youtu.be/zDIY3zT_2Qc?t=25m44s)
 - Dr. Soumitri Varadarajan - Why not practice Codesign?
 
 ### Meta
