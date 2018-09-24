@@ -15,7 +15,8 @@ Please don't hesitate to fork this repo, correct my spelling, add fill in the ga
 
 ## Historical Information
 
-- [Melbourne Cocoaheads on Vimeo](https://vimeo.com/channels/melbournecocoaheads)
+- [Melbourne CocoaHeads on Vimeo](https://vimeo.com/channels/melbournecocoaheads)
+- [Oliver Jones CocoaHeads videos on Vimeo](https://vimeo.com/oliverjones)
 - [CocoaheadsAU Google Group](https://groups.google.com/forum/#!forum/cocoaheadsau)
 
 ## Planning Sessions
